@@ -1,0 +1,11 @@
+C:\Users\Zander\source\repos\infobooth\infobooth\bin\Debug\infobooth.exe.config
+C:\Users\Zander\source\repos\infobooth\infobooth\bin\Debug\infobooth.exe
+C:\Users\Zander\source\repos\infobooth\infobooth\bin\Debug\infobooth.pdb
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.csprojAssemblyReference.cache
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.Properties.Resources.resources
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.exe
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.pdb
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.MainForm.resources
+C:\Users\Zander\source\repos\infobooth\infobooth\obj\Debug\infobooth.adminform.resources
